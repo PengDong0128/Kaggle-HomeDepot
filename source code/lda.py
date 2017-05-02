@@ -1,9 +1,3 @@
-#------------------------------------------------------------------------
-# Author : M,Qadri
-# Description : Groups the entire dataset into 10 topics
-#------------------------------------------------------------------------
-
-
 from sklearn.feature_extraction.text import CountVectorizer
 import lda
 import numpy as np
