@@ -1,11 +1,3 @@
-#------------------------------------------------------------------------
-# Author : 		M,Qadri
-# Description : Contains assorted functions for feature extraction, and 
-#				data processing. 
-#------------------------------------------------------------------------
-
-
-
 import numpy as np
 import pandas as pd
 from sklearn.ensemble import RandomForestRegressor, BaggingRegressor
